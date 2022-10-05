@@ -6,7 +6,7 @@
 		1. Setup game repo
 		2. Add team description
 2. 09/28 - 10/04
-	* Manager: NAME
+	* Manager: Brian Sostek
 	* Goals:
 		1. Create game credits
 2. 10/05 - 10/11
@@ -16,13 +16,13 @@
 		1. ...
 		1. ...
 2. 10/12 - 10/18
-	* Manager: NAME
+	* Manager: James Baker
 	* Goals:
 		1. ...
 		1. ...
 		1. ...
 2. 10/19 - 10/25
-	* Manager: REQUIRED
+	* Manager: Ethan Zhao
 	* Goals:
 		1. ...
 		1. ...

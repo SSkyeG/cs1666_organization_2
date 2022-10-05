@@ -6,7 +6,7 @@
 		1. Setup game repo
 		2. Add team description
 2. 09/28 - 10/04
-	* Manager: NAME
+	* Manager: Gavin Heinrichs-Majetich
 	* Goals:
 		1. Create game credits
 2. 10/05 - 10/11
@@ -16,7 +16,7 @@
 		1. ...
 		1. ...
 2. 10/12 - 10/18
-	* Manager: NAME
+	* Manager: Dan Li
 	* Goals:
 		1. ...
 		1. ...
@@ -34,7 +34,7 @@
 		1. ...
 		1. ...
 2. 11/02 - 11/08
-	* Manager: NAME
+	* Manager: Nathan Myers
 	* Goals:
 		1. ...
 		1. ...

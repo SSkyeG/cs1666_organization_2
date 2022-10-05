@@ -5,5 +5,5 @@
 * Week 4: Emily Kyle
 * Week 5: Vibhu Kundeti
 * Week 6: Adam Sheelar
-* Week 7: Colin Ferlan
-* Week 8: Alex Chlpka
+* Week 7: Alex Chlpka
+* Week 8: Colin Ferlan
